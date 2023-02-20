@@ -1,0 +1,15 @@
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\bin\Debug\net6.0\Задача 43.exe
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\bin\Debug\net6.0\Задача 43.deps.json
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\bin\Debug\net6.0\Задача 43.runtimeconfig.json
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\bin\Debug\net6.0\Задача 43.dll
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\bin\Debug\net6.0\Задача 43.pdb
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\obj\Debug\net6.0\Задача 43.csproj.AssemblyReference.cache
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\obj\Debug\net6.0\Задача 43.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\obj\Debug\net6.0\Задача 43.AssemblyInfoInputs.cache
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\obj\Debug\net6.0\Задача 43.AssemblyInfo.cs
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\obj\Debug\net6.0\Задача 43.csproj.CoreCompileInputs.cache
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\obj\Debug\net6.0\Задача 43.dll
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\obj\Debug\net6.0\refint\Задача 43.dll
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\obj\Debug\net6.0\Задача 43.pdb
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\obj\Debug\net6.0\Задача 43.genruntimeconfig.cache
+C:\GeekBrains\DZ_6\DZ_06\Задача 43\obj\Debug\net6.0\ref\Задача 43.dll
